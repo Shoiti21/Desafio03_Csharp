@@ -1,0 +1,11 @@
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\obj\Debug\netcoreapp3.1\Desafio03_Csharp.csprojAssemblyReference.cache
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\obj\Debug\netcoreapp3.1\Desafio03_Csharp.AssemblyInfoInputs.cache
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\obj\Debug\netcoreapp3.1\Desafio03_Csharp.AssemblyInfo.cs
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.exe
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.deps.json
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.runtimeconfig.json
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.runtimeconfig.dev.json
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.dll
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\bin\Debug\netcoreapp3.1\Desafio03_Csharp.pdb
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\obj\Debug\netcoreapp3.1\Desafio03_Csharp.dll
+C:\Users\LOSG\source\repos\Desafio03_Csharp\Desafio03_Csharp\obj\Debug\netcoreapp3.1\Desafio03_Csharp.pdb
